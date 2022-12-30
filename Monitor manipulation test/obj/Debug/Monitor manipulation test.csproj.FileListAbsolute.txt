@@ -1,0 +1,8 @@
+C:\Users\Nati\source\repos\Monitor manipulation test\Monitor manipulation test\bin\Debug\Monitor manipulation test.exe.config
+C:\Users\Nati\source\repos\Monitor manipulation test\Monitor manipulation test\bin\Debug\Monitor manipulation test.exe
+C:\Users\Nati\source\repos\Monitor manipulation test\Monitor manipulation test\bin\Debug\Monitor manipulation test.pdb
+C:\Users\Nati\source\repos\Monitor manipulation test\Monitor manipulation test\obj\Debug\Monitor manipulation test.csproj.AssemblyReference.cache
+C:\Users\Nati\source\repos\Monitor manipulation test\Monitor manipulation test\obj\Debug\Monitor manipulation test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nati\source\repos\Monitor manipulation test\Monitor manipulation test\obj\Debug\Monitor manipulation test.csproj.CoreCompileInputs.cache
+C:\Users\Nati\source\repos\Monitor manipulation test\Monitor manipulation test\obj\Debug\Monitor manipulation test.exe
+C:\Users\Nati\source\repos\Monitor manipulation test\Monitor manipulation test\obj\Debug\Monitor manipulation test.pdb
